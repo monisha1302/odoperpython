@@ -1,5 +1,4 @@
 import math
-global r1, r2, ipart, rpart
 print("Enter coeff of x^2, x and const")
 a= float(input("a="))
 b= float(input("b="))
